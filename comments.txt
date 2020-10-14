@@ -1,0 +1,14 @@
+# ; Print the term frequency for words in file Path
+# ; calc_freq(Words,Freq) Freq is the term frequency of the words in list Words
+# ; add_word( Word, Freq1, Freq2 ) Freq2 is Freq1 with Word added
+# ; Print the given term frequency
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ?- packList([a,a,a,b,c,c,c,d,d,e], L).
+%  L = [[3,a],[1,b],[3,c],[2,d],[1,e]] .
+%
+% ?- packList(R,  [[3,a],[1,b],[3,c],[2,d],[1,e]]).
+% R = [a,a,a,b,c,c,c,d,d,e] .
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
